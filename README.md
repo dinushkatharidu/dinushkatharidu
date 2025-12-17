@@ -1,7 +1,13 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=dinushkatharidu&label=Profile%20views&color=0e75b6&style=flat" alt="dinushkatharidu" /> </p>
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Dinushka Tharidu</h1>
-<h3 align="center">🚀 Aspiring Software Engineer</h3>
+<p align="center">
+<div align="center">
+<a href="https://github.com/your-username">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Hi,+Welcome+to+my+GitHub+page!+%F0%9F%91%8B;%F0%9F%9A%80+Aspiring+Software+Engineer;Software+Engineering+Undergraduate+@+OUSL;Java+%7C+Spring+%7C+React+%7C+MySQL+%7C+Node;Open+to+SE+Internship+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+</div>
+</p>
 
 - 🔭 I’m currently working on [online-bookstore](https://github.com/dinushkatharidu/online-bookstore)
 
