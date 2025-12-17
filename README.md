@@ -1,7 +1,7 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=dinushkatharidu&label=Profile%20views&color=0e75b6&style=flat" alt="dinushkatharidu" /> </p>
+<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Dinushka Tharidu</h1>
 <h3 align="center">🚀 Aspiring Software Engineer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dinushkatharidu&label=Profile%20views&color=0e75b6&style=flat" alt="dinushkatharidu" /> </p>
 
 - 🔭 I’m currently working on [online-bookstore](https://github.com/dinushkatharidu/online-bookstore)
 
