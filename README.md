@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@dinushkatharidu](https://medium.com/@dinushkatharidu)
 
-- 💬 Ask me about **Java, Spring Boot, React**
+- 💬 Ask me about **Java, Spring Boot, React, SQL**
 
 - 📫 How to reach me **asdinushkatharidu@gmail.com**
 
