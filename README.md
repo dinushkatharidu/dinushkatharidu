@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [online-bookstore](https://github.com/dinushkatharidu/online-bookstore)
 
-- 🌱 I’m currently learning **Java, Spring Boot, React, TypeScript, Angular, SQL,  Docker**
+- 🌱 I’m currently learning **Java, Spring Boot, PHP, Laravel, React, TypeScript, Angular, SQL,  Docker**
 
 - 📝 I regularly write articles on [https://medium.com/@dinushkatharidu](https://medium.com/@dinushkatharidu)
 
