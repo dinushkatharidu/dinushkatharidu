@@ -9,7 +9,7 @@
 </div>
 </p>
 
-- 🔭 I’m currently working on [online-bookstore](https://github.com/dinushkatharidu/online-bookstore)
+- 🔭 I’m currently working on [book-shelf-laravel](https://github.com/dinushkatharidu/book-shelf-laravel)
 
 - 🌱 I’m currently learning **Java, Spring Boot, PHP, Laravel, React, TypeScript, Angular, SQL,  Docker**
 
