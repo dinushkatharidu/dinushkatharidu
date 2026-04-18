@@ -9,7 +9,7 @@
 </div>
 </p>
 
-- 🔭 I’m currently working on [expense-tracker-laravel](https://github.com/dinushkatharidu/expense-tracker-laravel)
+- 🔭 I’m currently working on [sentinx](https://github.com/dinushkatharidu/sentinx)
 
 - 🌱 I’m currently learning **Java, Spring Boot, PHP, Laravel, React, TypeScript, Angular, SQL,  Docker**
 
