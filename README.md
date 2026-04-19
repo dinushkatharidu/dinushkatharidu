@@ -9,7 +9,7 @@
 </div>
 </p>
 
-- 🔭 I’m currently working on [sentinx](https://github.com/dinushkatharidu/sentinx)
+- 🔭 I’m currently working on [sentinX](https://github.com/dinushkatharidu/sentinx)
 
 - 🌱 I’m currently learning **Java, Spring Boot, PHP, Laravel, React, TypeScript, Angular, SQL,  Docker**
 
